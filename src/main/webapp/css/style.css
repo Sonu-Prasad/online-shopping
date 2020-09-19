@@ -1,0 +1,23 @@
+.custombg{
+	background: #80bfff;
+}
+.admin .card{
+	border: 2px #80bfff solid;
+}
+.admin .card:hover {
+	background-color: gray;
+}
+.product .card .container:hover {
+	background-color: white!important;
+}
+.discont-label{
+	font-size: 12px !important;
+	font-style: italic;
+}
+
+.carousel-item{
+    height: 300px;
+} 
+.carousel-item img{
+    height: 300px;
+}
